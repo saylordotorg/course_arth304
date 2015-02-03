@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH304 - African Art"
+course: ARTH304
+course_fulltitle: "African Art"
+course_description: "Exploration of the objects, images, and sites representing the diverse ethnic and artistic heritage of Africa, with particular emphasis on the role of art as manifested in the lifestyles, spiritualties, and philosophies of particular African societies."
+---
 **Unit 3: The Nile Valley** <span id="3"></span> 
 *The longevity and extensive remains of ancient Egypt – a Hellenized
 (Greek) name for the region of Kemet – make the area crucial to the

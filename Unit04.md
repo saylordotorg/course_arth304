@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH304 - African Art"
+course: ARTH304
+course_fulltitle: "African Art"
+course_description: "Exploration of the objects, images, and sites representing the diverse ethnic and artistic heritage of Africa, with particular emphasis on the role of art as manifested in the lifestyles, spiritualties, and philosophies of particular African societies."
+---
 **Unit 4: The Sudan** <span id="4"></span> 
 *Islamic movements into Nubia resulted in the emergence of the modern
 country of Sudan, a name derived from the Arabic* bilad as-sudan*, “land
