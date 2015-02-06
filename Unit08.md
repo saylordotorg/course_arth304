@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH304 - African Art"
-course: ARTH304
-course_fulltitle: "African Art"
+title: "ARTH304: African Art"
 course_description: "Exploration of the objects, images, and sites representing the diverse ethnic and artistic heritage of Africa, with particular emphasis on the role of art as manifested in the lifestyles, spiritualties, and philosophies of particular African societies."
+next: ../Unit09
+previous: ../Unit07
+bgimage: arth304.jpg
 ---
 **Unit 8: Contemporary African Artists** <span id="8"></span> 
 *In this unit, we will learn about the spread of African art forms and
