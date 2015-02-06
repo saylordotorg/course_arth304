@@ -1,6 +1,6 @@
 Course Syllabus for "ARTH304: African Art"
 ------------------------------------------
-#Moretest
+#Moreextratest
 This course will introduce you to the art and architecture of the
 African continent from the prehistoric to the present. The objects,
 images, and sites featured in this course represent a small
