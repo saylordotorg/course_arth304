@@ -1,6 +1,16 @@
 Course Syllabus for "ARTH304: African Art"
 ------------------------------------------
-#SCHEDULE TEST23
+
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_arth304) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 This course will introduce you to the art and architecture of the
 African continent from the prehistoric to the present. The objects,
 images, and sites featured in this course represent a small
