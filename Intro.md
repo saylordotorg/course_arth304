@@ -147,3 +147,4 @@ Tuesday night, etc.
 - [Unit 7](https://legacy.saylor.org/arth304/Unit07/)
 - [Unit 8](https://legacy.saylor.org/arth304/Unit08/)
 - [Unit 9](https://legacy.saylor.org/arth304/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH304/ARTH304-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH304/ARTH304-FinalExam-Answers.html)
