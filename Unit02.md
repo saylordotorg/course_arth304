@@ -39,7 +39,7 @@ Upon successful completion of this unit, you will be able to:
 id="2.1"></span> 
 -   **Reading: Wikipedia’s “Maghreb”**
     Link: Wikipedia’s
-    [“Maghreb”](http://www.saylor.org/site/wp-content/uploads/2013/02/ARTH304-2.1-Maghreb.pdf)
+    [“Maghreb”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/ARTH304-2.1-Maghreb.pdf)
     (PDF)  
       
      Instructions: Read this overview of the Maghreb. The page will take

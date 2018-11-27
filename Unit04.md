@@ -466,7 +466,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: The Saylor Foundation’s “Bamana and Dogon Votive
     Structures Essay”**
     Link: The Saylor Foundation’s [“Bamana and Dogon Votive Structures
-    Essay”](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH304-Assignment-Subunit4.3.pdf)
+    Essay”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH304-Assignment-Subunit4.3.pdf)
     (PDF)  
       
      Instructions: Follow the instructions on this webpage to draft an
@@ -596,7 +596,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Assignment: The Saylor Foundation’s “Geography of Africa”**
     Link: The Saylor Foundation’s [“Geography of
-    Africa”](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH304-Assignment-Unit4-GeographyofAfrica.pdf)
+    Africa”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH304-Assignment-Unit4-GeographyofAfrica.pdf)
     (PDF)  
       
      Instructions: Congratulations! You have reached the midpoint of
@@ -608,7 +608,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: The Saylor Foundation’s “Art Analysis Based on Personal
     Viewing”**
     Link: The Saylor Foundation’s [“Art Analysis Based on Personal
-    Viewing”](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH304-Assignmnet-Unit4-ArtAnalysisBasedonPersonalViewing.pdf)
+    Viewing”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH304-Assignmnet-Unit4-ArtAnalysisBasedonPersonalViewing.pdf)
     (PDF)  
       
      Instructions: Complete this activity over the remainder of the time

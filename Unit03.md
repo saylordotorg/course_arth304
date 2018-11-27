@@ -371,7 +371,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Wikipedia’s “Obelisk of Axum”**
 
     Link: Wikipedia’s [“Obelisk of
-    Axum”](http://www.saylor.org/site/wp-content/uploads/2013/02/ARTH304-3.3-ObeliskofAxum.pdf)
+    Axum”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/ARTH304-3.3-ObeliskofAxum.pdf)
     (PDF)  
       
      Instructions: Read the article, which discusses the largest
