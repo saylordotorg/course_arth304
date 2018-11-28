@@ -200,7 +200,7 @@ Upon successful completion of this unit, you will be able to:
     Roles of the Poro and Sande Societies”**
     Link: The Saylor Foundation’s [“Compare and Contrast the Roles of
     the Poro and Sande
-    Societies”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/ARTH304-Assignment-Unit-5.1-Comparative-Analysis-Poro-and-Sande-Societies.pdf)
+    Societies”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/ARTH304-Assignment-Unit-5.1-Comparative-Analysis-Poro-and-Sande-Societies.pdf)
     (PDF)  
       
      Instructions: Read this prompt and craft a response essay.  
@@ -670,7 +670,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: The Saylor Foundation’s “Benin and Ife Bronzes:
     Comparison”**
     Link: The Saylor Foundation’s [“Benin and Ife Bronzes:
-    Comparison”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH304-Assignment-Unit5.3.1-BeninandIfeBronzes.pdf)
+    Comparison”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH304-Assignment-Unit5.3.1-BeninandIfeBronzes.pdf)
     (PDF)  
       
      Instructions: Please complete this activity.  
@@ -717,7 +717,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: Wikipedia’s “Ikenga”**
     Link: Wikipedia’s
-    [“Ikenga”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/ARTH304-5.3.3-Ikenga.pdf)
+    [“Ikenga”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/ARTH304-5.3.3-Ikenga.pdf)
     (PDF)  
       
      Instructions: Read this link as background information on the
@@ -799,7 +799,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: Boundless: “Igbo-Ukwu”**
     Link: Boundless:
-    [“Igbo-Ukwu”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH304_5.6.2_Igbo-Ukwu.pdf)
+    [“Igbo-Ukwu”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH304_5.6.2_Igbo-Ukwu.pdf)
     (PDF)  
       
      Instructions: Please read the entirety of the text on this page and
