@@ -145,7 +145,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: Wikipedia’s “Ethnic Groups in Africa”**
     Link: Wikipedia’s [“Ethnic Groups in
-    Africa”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Ethnic-groups-in-Africa.pdf)
+    Africa”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Ethnic-groups-in-Africa.pdf)
     (PDF)  
       
      Instructions: Read this article for an overview of Africa’s major

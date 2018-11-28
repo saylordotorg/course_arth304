@@ -246,7 +246,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: The Saylor Foundation’s “Comparison of Contemporary
     African Artists”**
     Link: The Saylor Foundation’s [“Comparison of Contemporary African
-    Artists”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH304-Assignment-Unit8-ComparisonofContemporaryAfricanArtists.pdf) (PDF)  
+    Artists”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH304-Assignment-Unit8-ComparisonofContemporaryAfricanArtists.pdf) (PDF)  
       
      Instructions: Please complete the linked activity above.  
         
